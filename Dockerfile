@@ -1,6 +1,6 @@
 
 FROM alpine
-
+LABEL app="nodejs app"
 LABEL maintainer="moiz.ece@hotmail.com"
 
 # Install Node and NPM
